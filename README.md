@@ -15,7 +15,7 @@ network.
 
 See below for screenshot of Genesis configuration
 
-![puppeth config](realnet/screenshots/puppeth_config.PNG)
+![puppeth config](/realnet/screenshots/puppeth_config.PNG)
 
 ![realnet](realnet/screenshots/directory.PNG)
 
