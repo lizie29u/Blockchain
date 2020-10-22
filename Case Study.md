@@ -80,7 +80,7 @@ find that they are becoming less relevant as the blockchain technology eliminate
 
 
 ### Resources
-https://clutch.co/profile/oneledger#showmore
+https://clutch.co/profile/oneledger
 
 https://www.oneledger.io/business
 
