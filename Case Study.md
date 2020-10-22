@@ -9,12 +9,15 @@ One of the most talked about domain is Blockchain. The technology is gaining in 
 (1) Reduction in fraudulent activities in banking and financial sector -  Blockchain technology would help financial sector to get rid of some contemporary crimes that are taking place in today’s digital world through distributed applications.
 
 (2) Efficiency- Since there is no centralized authority, transactions take place in real time through the peer to peer system
+
 (3)  Smart Contracts-Blockchains facilitates the storage of any kind of digital information, including computer code that can be executed between two or more parties, this allows for smart contracts.
 ```
-## OneLedger
+## OneLedger - What is it
 In Canada, there are many players in the Blockchain Industry. One such Company is OneLedger, founded in 2018. The Founder and Chief Executive Officer (CEO) of OneLedger, David Cao is the Chairman of Canada China Blockchain Professional Association (CCBPA), and has over 13 years of cumulative experience in blockchain technology and enterprise architecture 
 
-OneLedger is a Blockchain as a Service (BaaS) Solutions company, that uses its own Blockchain technology to support its customer’s blockchain needs. OneLedger builds customizations on top of their proprietary blockchain software with integrations into third party software systems and tools. Being first to market with a truly interoperable blockchain solution, they build, manage, and provide blockchain support for all their customers and have a blockchain EDI offering for Supply Chain EDI.  
+OneLedger is a Blockchain as a Service (BaaS) Solutions company, that uses its own Blockchain technology to support its customer’s blockchain needs. OneLedger builds customizations on top of their proprietary blockchain software with integrations into third party software systems and tools. Being first to market with a truly interoperable blockchain solution, they build, manage, and provide blockchain support for all their customers and have a blockchain EDI offering for Supply Chain EDI. 
+
+## Why this matters
 
 One Ledger seeks to address two of the major challenges in today’s blockchain technology: 
 
@@ -31,7 +34,7 @@ Today, to deploy dApps across multiple platforms, developers need to write smart
 
 The answer, Using OneLedger’s Software Development Kit (SDK), developers can write a ‘master smart contract’ for their dApp, and deploy the dApp simultaneously on multiple public blockchains. This eliminates the need for developers to write smart contracts in multiple languages, if they are to be deployed on multiple blockchains, as is the case today.
 
-## The Technology
+## The Technology - Why this may be interesting
 
 OneLedger is a cross-chain app platform designed for developers to extend blockchain technologies. OneLedger enables businesses and individuals to build applications through OneLedger’s modularization tools, which will then communicate with OneLedger protocol using its Application Programming Interface (API) gateway. Their Protocol bridges the gap for enterprise applications by providing native connectivity to any centralized or decentralized system, allowing for seamless communication.
 
@@ -74,3 +77,15 @@ Conclusion
 
 This kind of technology also contributes to the disruption in these fintech domain. Some entities that provide upgrades to these legacy systems may 
 find that they are becoming less relevant as the blockchain technology eliminates the need for these upgrades. 
+
+
+### Resources
+https://clutch.co/profile/oneledger#showmore
+
+https://www.oneledger.io/business
+
+https://www.oneledger.io/real-estate-blockchain
+
+https://www.oneledger.io/blog/neledger-the-now-and-the-future
+
+https://hackernoon.com/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
