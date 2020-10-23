@@ -99,7 +99,7 @@ Once the status changes from pending to successful, you should see the funds.
 ### Note to Instructor / TA
 As previously discussed, I was unable to connect to Mycrypto.  I tried to add my custom Node however I got the below error message even after rebuilding the network and trying again.
 
-![capture](realnet/screenshots/Capture.PNG)
+![capture](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/Capture.PNG?raw=true)
 
 It seems the network was added, however I am unable to connect to it as shown in below error message
 
