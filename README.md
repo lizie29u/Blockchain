@@ -105,6 +105,6 @@ It seems the network was added, however I am unable to connect to it as shown in
 
 ![realnet](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/realnet.PNG?raw=true)
 
-![realnet](realnet/screenshots/cant_connect.PNG)
+![realnet](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/cant_connect.PNG?raw=true)
 
 So I was not able to send the test transaction.
