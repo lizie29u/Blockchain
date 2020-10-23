@@ -59,7 +59,7 @@ You should see Node 2 start producing new blocks
 
 Image of both nodes running
 
-![Both nodes running](realnet/screenshots/both_nodes.PNG)
+![Both nodes running](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/both_nodes.PNG?raw=true)
 
 
 ## Connecting 'realnet" to Mycrypto
