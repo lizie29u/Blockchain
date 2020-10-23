@@ -15,7 +15,7 @@ network.
 
 See below for screenshot of Genesis configuration
 
-![puppeth config](realnet/screenshots/puppeth_config.PNG)
+![puppeth config](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/puppeth_config.PNG?raw=true)
 
 ![realnet](realnet/screenshots/directory.PNG)
 
