@@ -80,4 +80,12 @@ find that they are becoming less relevant as the blockchain technology eliminate
 
 
 ### Resources
-https://clutch.co/profile/oneledger#showmore
+https://clutch.co/profile/oneledger
+
+https://www.oneledger.io/business
+
+https://www.oneledger.io/real-estate-blockchain
+
+https://www.oneledger.io/blog/neledger-the-now-and-the-future
+
+https://hackernoon.com/oneledger-a-uniquely-interesting-enterprise-blockchain-cross-ledger-solution-c6e3eed08120
