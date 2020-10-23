@@ -19,7 +19,7 @@ See below for screenshot of Genesis configuration
 
 ![realnet](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/directory.PNG?raw=true)
 
-![node 1](realnet/screenshots/node_1.PNG)
+![node 1](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/node_1.PNG?raw=true)
 
 Once, the network has been initialized, the nodes can then be used to begin mining blocks.  Following are the instruction to start the network and begin mining:
 
