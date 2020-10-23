@@ -103,7 +103,7 @@ As previously discussed, I was unable to connect to Mycrypto.  I tried to add my
 
 It seems the network was added, however I am unable to connect to it as shown in below error message
 
-![realnet](realnet/screenshots/realnet.PNG)
+![realnet](https://github.com/lizie29u/Blockchain/blob/main/realnet/Screenshots/realnet.PNG?raw=true)
 
 ![realnet](realnet/screenshots/cant_connect.PNG)
 
